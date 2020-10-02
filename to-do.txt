@@ -1,0 +1,5 @@
+This are the lists of things that could be included to take this project to the next level. Help out if you want to: 
+-> User Interface
+-> pipenv
+-> Fetch from external database
+-> Show Recently Searched
